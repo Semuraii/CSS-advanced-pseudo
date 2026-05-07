@@ -138,6 +138,10 @@ section h2::after {
     margin: 0.5rem auto 0;
 }
 
+#our-treatments p {
+    margin-bottom: var(--spacing-sm);
+}
+
 .spa-items {
     display: flex;
     gap: var(--spacing-md);
