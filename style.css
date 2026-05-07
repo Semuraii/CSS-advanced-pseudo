@@ -119,7 +119,8 @@ nav li:first-child a {
 }
 
 section {
-    
+    padding: var(--spacing-lg) var(--spacing-md);
+    text-align: center;
 }
 
 
