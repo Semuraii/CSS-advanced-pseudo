@@ -109,4 +109,8 @@ nav li:first-child a {
     transition: background 0.5s ease;
 }
 
+.btn:hover {
+    background: #99d98c;
+}
+
 
