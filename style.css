@@ -167,6 +167,7 @@ section h2::after {
 
 form {
     display: flex;
+    max-width: 35rem;
 }
 
 
