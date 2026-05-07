@@ -114,4 +114,8 @@ nav li:first-child a {
     background: var(--tertiary-color);
 }
 
+.btn:active {
+    transform: scale(0.95);
+}
+
 
