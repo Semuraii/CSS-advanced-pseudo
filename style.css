@@ -98,4 +98,13 @@ nav li:first-child a {
     margin: 0.5rem auto 0;
 }
 
+.btn {
+    background: var(--secondary-color);
+    color: var(--color-text);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-weight: bold;
+}
+
 
