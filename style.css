@@ -56,4 +56,5 @@ nav a {
     color: var(--color-text-light);
     text-decoration: none;
     position: relative;
+    font-weight: bold;
 }
