@@ -138,5 +138,9 @@ section h2::after {
     margin: 0.5rem auto 0;
 }
 
+.spa-items {
+    display: flex;
+}
+
 
 
