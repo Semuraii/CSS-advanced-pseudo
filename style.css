@@ -152,6 +152,7 @@ section h2::after {
     padding: var(--spacing-sm);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 4px 6px black;
+    text-align: left;
 
 }
 
