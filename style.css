@@ -169,6 +169,8 @@ form {
     display: flex;
     max-width: 35rem;
     margin: 0 auto;
+    flex-direction: column;
+    gap: var(--spacing-sm);
 }
 
 
