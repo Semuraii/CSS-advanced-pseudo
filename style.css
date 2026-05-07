@@ -147,7 +147,10 @@ section h2::after {
 
 .spa-card {
     width: 20rem;
-    
+    background: var(--secondary-color);
+    border-radius: var(--radius-md);
+    padding: var(--spacing-sm);
+
 }
 
 
