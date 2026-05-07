@@ -126,6 +126,7 @@ section {
 section h2 {
     font-size: var(--font-size-lg);
     margin-bottom: var(--spacing-md);
+    position: relative;
 }
 
 
