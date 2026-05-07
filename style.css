@@ -79,7 +79,7 @@ nav li:first-child a {
 }
 
 .hero { 
-    background: url(images/succulent2.jpg) center/cover no-repeat;
+    background: url(images/buddah.jpg) center/cover no-repeat;
     text-align: center;
     padding: var(--spacing-lg) var(--spacing-md);
 }
