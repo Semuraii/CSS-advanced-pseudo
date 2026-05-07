@@ -68,3 +68,7 @@ nav a::after {
     height: 2px;
     background: var(--secondary-color);
 }
+
+nav a:hover::after { 
+    width: 100%;
+}
