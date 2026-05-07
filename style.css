@@ -150,6 +150,8 @@ section h2::after {
     background: var(--secondary-color);
     border-radius: var(--radius-md);
     padding: var(--spacing-sm);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px black;
 
 }
 
