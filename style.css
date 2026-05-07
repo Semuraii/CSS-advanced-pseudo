@@ -165,5 +165,8 @@ section h2::after {
     box-shadow: 0 8px 12px black;
 }
 
+form {
+    display: flex;
+}
 
 
