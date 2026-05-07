@@ -58,3 +58,7 @@ nav a {
     position: relative;
     font-weight: bold;
 }
+
+nav a::after { 
+    content:¨¨;
+}
