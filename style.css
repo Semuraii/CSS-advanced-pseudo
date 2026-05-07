@@ -175,6 +175,8 @@ form {
 
 input, textarea {
     padding: var(--spacing-sm);
+    border: 1px solid var(--primary-color);
+    border-radius: var(--radius-sm);
 }
 
 
