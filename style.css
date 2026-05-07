@@ -134,7 +134,7 @@ section h2::after {
     display: block;
     height: 0.2rem;
     width: 7rem;
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     margin: 0.5rem auto 0;
 }
 
