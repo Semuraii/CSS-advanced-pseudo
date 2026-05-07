@@ -1,6 +1,7 @@
 :root {
     --primary-color: #1b4332;
     --secondary-color: #40916c;
+    --tertiary-color: #99d98c;
     --color-bg: #74c69d;
     --color-text: #081c15;
     --color-text-light: #d8f3dc;
@@ -110,7 +111,7 @@ nav li:first-child a {
 }
 
 .btn:hover {
-    background: #99d98c;
+    background: var(--tertiary-color);
 }
 
 
