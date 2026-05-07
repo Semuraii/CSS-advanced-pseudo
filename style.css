@@ -141,6 +141,8 @@ section h2::after {
 .spa-items {
     display: flex;
     gap: var(--spacing-md);
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 
