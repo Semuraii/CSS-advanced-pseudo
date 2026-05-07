@@ -156,5 +156,10 @@ section h2::after {
 
 }
 
+.spa-card:hover {
+    transform: translateY(-0.4rem);
+    box-shadow: 0 8px 12px black;
+}
+
 
 
