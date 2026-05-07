@@ -5,4 +5,10 @@
     --color-text: #46494c;
     --color-text-light: #d8f3dc;
     --color-card-odd: #b7e4c7;
+
+    --font-family: sans-serif;
+    --font-size-base: 1rem;
+    --font-size-lg: 2rem;
+    --font-size-xl: 3rem;
 }
+
