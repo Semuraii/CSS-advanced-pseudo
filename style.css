@@ -14,5 +14,8 @@
     --spacing-sm: 1rem;
     --spacing-md: 2rem;
     --spacing-lg: 3rem;
+
+    --radius-sm: 5px;
+    --radius-md: 10px;
 }
 
