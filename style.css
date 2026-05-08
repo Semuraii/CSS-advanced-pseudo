@@ -182,6 +182,9 @@ input, textarea {
 footer { 
     background: var(--primary-color);
     color: var(--color-text-light);
+    text-align: center;
+    padding: var(--spacing-sm);
+    margin-top: var(--spacing-lg);
 }
 
 
