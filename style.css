@@ -225,7 +225,7 @@ button {
 @media (prefers-color-scheme: dark) {
     :root {
         --color-bg: #081c15;
-        --color-text: #d8f3dc;
+        --color-text: #081c15;
     }
 }
 
