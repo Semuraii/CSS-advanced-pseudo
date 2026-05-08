@@ -103,6 +103,10 @@ nav li:first-child a {
     margin: 0.5rem auto 0;
 }
 
+.hero p {
+    margin-bottom: 1rem;
+}
+
 .btn {
     background: var(--secondary-color);
     color: var(--color-text);
