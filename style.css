@@ -218,4 +218,11 @@ button {
     }
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-bg: ;#1b4332;
+        --color-text: #d8f3dc;
+    }
+}
+
 
