@@ -212,6 +212,10 @@ button {
     .spa-card:not(:last-child) {
         margin-bottom: 1rem;
     }
+
+    .hero {
+        padding: var(--spacing-md);
+    }
 }
 
 
