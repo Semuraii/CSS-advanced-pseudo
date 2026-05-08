@@ -208,6 +208,10 @@ button {
         gap: var(--spacing-md);
         align-items: center;
     }
+
+    .spa-card:not(:last-child) {
+        margin-bottom: 1rem;
+    }
 }
 
 
