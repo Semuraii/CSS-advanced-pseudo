@@ -84,7 +84,7 @@ nav li:first-child a {
 }
 
 .hero { 
-    background: url(images/buddah2.jpg) center/cover no-repeat;
+    background: url(images/steinmassasje.jpg) center/cover no-repeat;
     text-align: center;
     padding: var(--spacing-lg) var(--spacing-md);
 }
@@ -224,7 +224,7 @@ button {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --color-bg: #74c69d;
+        --color-bg: #081c15;
         --color-text: #d8f3dc;
     }
 }
