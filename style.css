@@ -202,6 +202,12 @@ button {
         flex-direction: column;
         gap: var(--spacing-sm);
     }
+
+    .spa-items {
+        flex-direction: column;
+        gap: var(--spacing-md);
+        align-items: center;
+    }
 }
 
 
