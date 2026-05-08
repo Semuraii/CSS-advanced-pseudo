@@ -187,4 +187,8 @@ footer {
     margin-top: var(--spacing-lg);
 }
 
+button { 
+    border: none;
+}
+
 
