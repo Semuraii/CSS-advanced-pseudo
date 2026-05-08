@@ -225,4 +225,13 @@ button {
     }
 }
 
+@media (prefers-reduced-motion: reduce) {
+    * {
+        transition: none !important;
+        animation: none !important;
+        scroll-behavior: none !important;
+        transform: none !important;
+    }
+}
+
 
