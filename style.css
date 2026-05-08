@@ -179,4 +179,9 @@ input, textarea {
     border-radius: var(--radius-sm);
 }
 
+footer { 
+    background: var(--primary-color);
+    color: var(--color-text-light);
+}
+
 
